@@ -9,7 +9,7 @@
 
 ##  How To Deploy
 - `git clone https://github.com/SutoIstvan/laravel-11-docker.git`
-- `cd laravel-docker`
+- `cd laravel-11-docker`
 - `docker compose up -d --build`
 - `docker compose exec phpmyadmin chmod 777 /sessions`
 - `docker compose exec php bash`
