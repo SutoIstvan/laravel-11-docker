@@ -19,3 +19,11 @@
 - `composer install`
 - `php artisan key:generate`
 - `php artisan migrate`
+
+## Laravel App
+- URL: http://localhost
+
+## Mailpit
+- URL: http://localhost:8025
+## phpMyAdmin
+- URL: http://localhost:8080
